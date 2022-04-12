@@ -1,6 +1,6 @@
 - 👩‍🎓 Hi, I’m Liz Dowling, a new-to-coding student.
 - 👀 I’m interested in medieval art, learning about medieval art, learning in general, being in nature and music.
-- 🌱 I’m currently enrolled in Flatiron School, phase1.
+- 🌱 I’m currently enrolled in Flatiron School, phase2.
 
 <!---
 dowlingec/dowlingec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
