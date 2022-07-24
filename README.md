@@ -1,6 +1,6 @@
 - 👩‍💻 Hi, I’m Liz Dowling, software engineer
-- 👀 I’m interested in medieval art, learning about medieval art, learning in general, being in nature and music.
-- 🎓 Flatiron School graduate currently working on my Dresser project
+- 👀 My other passions include music, journalling and hiking!
+- 🎓 Flatiron School graduate currently working on my Dresser project and top-secret (very cool project)
 
 <!---
 dowlingec/dowlingec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
